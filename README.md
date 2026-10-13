@@ -1,22 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Nathanael 👋
 
-**I am an Undergraduate Computer Engineering Student that has an interest at Robotics in Electrical Design and Embedded Systems**
+An **Undergraduate Computer Engineering Student** at **Institut Teknologi Sepuluh Nopember (ITS)** specializing in **Robotics, Electrical Design, and Embedded Systems**.
 
+---
 
-  -> I am currently having an internship at Barunastra, a research team at ITS
+### 🚀 About Me
+- 🚢 **Current Role:** Electrical Design Intern at **Barunastra ITS Research Team**
+- ⚡ **Core Focus:** PCB Schematic & Layout Design, Power Electronics, Microcontroller Firmware
+- 🎯 **Current Goal:** Developing custom embedded hardware & autonomous surface vessel control systems
 
+---
 
-  -> I am new to electrical design and embedded systems and willing to learn more
+### 🛠️ Tech Stack & Tools
 
+**Hardware & EDA**  
+![KiCad](https://img.shields.io/badge/KiCad-EDA-314199?style=for-the-badge&logo=kicad&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-Microcontrollers-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Architecture_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️  Tools  : 
-*Figma (Architecture Design), KiCad, STM 32 (1.019) Blocks IDE, VS Code, Obsidian*
+**Software & Environment**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7A3EE8?style=for-the-badge&logo=obsidian&logoColor=white)
 
-### 💬  How to Reach me  : 
-*~Instagram: @nathan-hasugian*
+---
 
+### 📫 Connect With Me
 
-*~Line: ltt13301 (ID)*
-
-
-*~Phone, Whatsapp: +6288801194387*
+[![Email](https://img.shields.io/badge/Email-giandame701%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giandame701@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@nathan--hasugian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nathan-hasugian)
