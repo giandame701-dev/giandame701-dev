@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**giandame701-dev/giandame701-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-> I am an Undergraduate Computer Engineering Student that has an interest in Electrical Design and Embedded Systems
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> I am currently having an internship at Barunastra, a research team at ITS
+
+
+-> I am new to electrical design and embedded systems and willing to learn it from internship and by myself from online resources.
+
+
+### Tools: 
+Figma (Architecture Design), KiCad, STM 32 (1.019) Blocks IDE, VS Code, Obsidian
+
+### How to Reach me: 
+~Instagram: @nathan-hasugian
+
+
+~Line: ltt13301
+
+
+~Phone, Whatsapp: +6288801194387
