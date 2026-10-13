@@ -9,10 +9,10 @@
   -> I am new to electrical design and embedded systems and willing to learn more
 
 
-### Tools  : 
+### ⚙️  Tools  : 
 *Figma (Architecture Design), KiCad, STM 32 (1.019) Blocks IDE, VS Code, Obsidian*
 
-### How to Reach me  : 
+### 💬  How to Reach me  : 
 *~Instagram: @nathan-hasugian*
 
 
