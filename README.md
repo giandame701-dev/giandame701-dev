@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am an Undergraduate Computer Engineering Student that has an interest in Electrical Design and Embedded Systems**
+**I am an Undergraduate Computer Engineering Student that has an interest at Robotics in Electrical Design and Embedded Systems**
 
 
   -> I am currently having an internship at Barunastra, a research team at ITS
