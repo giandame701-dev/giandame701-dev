@@ -16,7 +16,7 @@
 *~Instagram: @nathan-hasugian*
 
 
-*~Line: ltt13301*
+*~Line: ltt13301 (ID)*
 
 
 *~Phone, Whatsapp: +6288801194387*
